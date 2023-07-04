@@ -18,7 +18,7 @@
   --bs-red: #dc3545;
   --bs-orange: #bd5d38;
   --bs-yellow: #ffc107;
-  --bs-green: #198754;
+  --bs-green: #7bc05b;
   --bs-teal: #20c997;
   --bs-cyan: #0dcaf0;
   --bs-black: #000;
@@ -251,7 +251,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: var(--bs-link-hover-color);
+  color: var(--bs-green);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
