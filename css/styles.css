@@ -251,7 +251,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: var(--bs-green);
+  color: var(--bs-link-hover-color);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -10877,7 +10877,8 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #7bc05b;
+  
 }
 
 @media (min-width: 992px) {
@@ -10937,7 +10938,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #d3dfe5;
 }
 
 .dev-icons {
